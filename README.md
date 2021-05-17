@@ -37,7 +37,7 @@ First of all you need a USB TTL FTDI (like this https://t.ly/cMAf or this https:
 
 Connection between FTDI and MEGA 1284P:
 
-| FTDI        |       |    MEGA 1284P   |
+| FTDI        |       |    MICRO 1284P   |
 | :----:        |    :----:   |    :----:   |
 | Vcc        |    <------->   |    5v   |
 | Gnd        |    <------->   |    Gnd   |
