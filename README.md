@@ -47,6 +47,11 @@ Connection between FTDI and MEGA 1284P:
 | Rx        |    <------->   |    Tx   |
 | RTS/DTR        |    <------->   |    DTR   |
 
+## SITE WHERE TO BUY PCB
+
+If you are interested in buying the PCB you can consider supporting the project by purchasing it on: 
+https://www.pcbway.com/project/shareproject/CROSSROAD_LAB_MICRO_1284P.html
+
 ## PROJECT SITE
 
 https://www.crossroadnetwork.org/CrossRoadLAB/projects/MICRO1284P.html
