@@ -4,7 +4,7 @@
 
 ## GENERAL INFORMATION
 
-#### MICRO 1284P is an open-source microcontroller based on the ATmega1284P. It features 24 digital input/output pins (of which 6 can be PWM outputs), 8 analog input pins, a 16 MHz ceramic resonator, an ICSP pin header, a reset button, and an LED is connected to pin 13. To power the microcontroller you can use the 5 volts of the serial or from 7 volts to 35 volts from the Vin pin (use one of the two methods, not both together). With its small size it allows its insertion in very compact projects.
+#### MICRO 1284P is an open-source microcontroller based on the ATmega1284P. It features 24 digital input/output pins (of which 6 can be PWM outputs), 8 analog input pins, a 16 MHz crystal oscillator, an ICSP pin header, a reset button, and an LED is connected to pin 13. To power the microcontroller you can use the 5 volts of the serial or from 7 volts to 35 volts from the Vin pin (use one of the two methods, not both together). With its small size it allows its insertion in very compact projects.
 
 ## CORE SPECIFICATION
 
