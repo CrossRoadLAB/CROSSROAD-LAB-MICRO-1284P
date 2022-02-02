@@ -54,5 +54,5 @@ https://www.pcbway.com/project/shareproject/CROSSROAD_LAB_MICRO_1284P.html
 
 ## PROJECT SITE
 
-https://www.crossroadnetwork.org/CrossRoadLAB/projects/MICRO1284P.html
+https://www.crossroadlab.org/projects/MICRO1284P.html
 
