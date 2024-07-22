@@ -52,7 +52,3 @@ Connection between FTDI and MEGA 1284P:
 If you are interested in buying the PCB you can consider supporting the project by purchasing it on: 
 https://www.pcbway.com/project/shareproject/CROSSROAD_LAB_MICRO_1284P.html
 
-## PROJECT SITE
-
-https://www.crossroadlab.org/projects/MICRO1284P.html
-
